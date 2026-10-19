@@ -3,4 +3,3 @@ class Student:
         self.name = name
         self.student_id = student_id
         self.grade = grade
-
